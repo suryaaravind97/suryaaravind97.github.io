@@ -1,32 +1,32 @@
 # Site
-repository: sproogen/resume-theme
+repository: nikhilkoditala/nikhilkoditala.github.io
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Nikhil Koditala
+title: Computer Science Student
+email: nikhilkodit1@gmail.com
+website: nikhilkoditala.github.io
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: Nikhil32901303
+github_username:  nikhilkoditala
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: chillwildlife
+linkedin_username: nikhilkoditala
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Nikhil and I'm a Final year Computer Science Student. I has experience in working as Research Intern at IIIT Hyderabad.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>NLP</mark> and <mark>Web Development</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -38,19 +38,15 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+# more_title: Publications
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Climbing
-   - Fortnite
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  <mark>Water Quality Monitoring System using IoT and Machine Learning<mark> accepted for publication and presented in 3rd IEEE International Conference on Research in Intelligent and Computing in Engineering.
 
 # Footer
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: nikhilkoditala/nikhilkoditala.github.io
 
 sass:
   sass_dir: _sass
