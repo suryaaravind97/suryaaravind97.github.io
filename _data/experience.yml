@@ -1,19 +1,8 @@
-- company: IIIT, Hyderabad
-  link: https://www.iiit.ac.in
-  job_title: Research Intern
-  dates: May 2018 - July 2018
+- company: The Boring Company
+  link: boringcompany.com
+  job_title: Senior Network System Administrator
+  dates: November 2017 - Present
   quote: >
-   The IIIT Hyderabad ranks among top 10 universities in India focused on the core areas of Information Technology. 
+   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-    Worked with Dr.Radhika Mamidi to develop Generative BasedS arcastic Chatbot.
-    Focus is to build a chatbot which can detect user sarcasm and also generate sarcastic replies. Also built a movie chatbot using NLIDB approach.
-
-
-- company: EAIESB Software Solutions
-  link: http://eaiesb.com
-  job_title: Junior Software Intern
-  dates: June 2017 - July 2017
-  quote: >
-   EAIESB is an innovative and award-winning IT Professional Services which delivers enterprise software solutions.
-  description: | # this will include new lines to allow paragraphs
-    Developed University Portal to automate manual gatepass system using springboot and vaadin. Trained over Machine learning and BigData using Python and R.
+    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.

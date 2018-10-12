@@ -1,15 +1,7 @@
-- name: Building Word Embeddings using PLSA
-  link: 
-  github: 
+- name: Super awesome project
+  link: github.com/sproogen
+  github: sproogen/resume-theme
   quote: >
-    To generate Word Associations using PLSA Algorithm over large Dataset
+    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    Work with Dr.Sudip Sanyal to develop word embeddings using PLSA Algorithm. High Performace Computer was used to achieve parallel programming using MPI.
-
-- name: Apparel Recommendation Engine
-  link: 
-  github: 
-  quote: >
-    Objective is to build a product recomendation system using Word2Vec
-  description: | # this will include new lines to allow paragraphs
-    Build a system which recommends similar apparel products using product descriptions and other parameters. Used concepts of TF-IDF and Word Embeddings to build this real world solution.
+    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
