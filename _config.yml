@@ -38,10 +38,11 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: Publications
+# more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  <mark>Water Quality Monitoring System using IoT and Machine Learning</mark> accepted for publication and presented in 3rd IEEE International Conference on Research in Intelligent and Computing in Engineering.
+  Worked as Resident Assistant in my 3rd year My role is to manage a university residence hall floor of ethnically diverse freshman students in Psychological and academic aspects.
 
+  Secured 2nd position in HackBMU Hackathon, built a gesture-based chat bot that allows speech and hearing impaired users to interact using signed language.
 # Footer
 footer_show_references: true
 
