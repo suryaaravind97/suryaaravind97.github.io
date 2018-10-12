@@ -6,3 +6,12 @@
    The IIIT Hyderabad is one of the top 10 universities in India focused on the core areas of Information Technology
   description: | # this will include new lines to allow paragraphs
     Worked with Dr.Radhika Mamidi to develop Generative Based Sarcastic Chatbot. Focus is to build a chat bot which can detect user sarcasm and also generate sarcastic replies.
+
+- company: EAIESB Software Solutions
+  link: http://eaiesb.com
+  job_title: Junior Software Intern
+  dates: 
+  quote: >
+   EAIESB is an innovative and award winning IT Professional Services which delivers enterprise software solutions.
+  description: | # this will include new lines to allow paragraphs
+    Developed University Portal to automate manual gate pass system using Spring boot and vaadin. Trained over Machine learning and BigData using Python and R.

@@ -1,7 +1,15 @@
-- name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+- name: Building Word Embeddings using PLSA
+  # link: github.com/sproogen
+  # github: sproogen/resume-theme
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    To generate Word Associations using PLSA Algorithm over Large Dateset. 
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Work with Dr.Sudip Sanyal to develop word embeddings using PLSA Algorithm. High Performance Computer was used to achieve parallel programming using MPI.
+
+- name: Apparel Recommendation Engine
+  # link: github.com/sproogen
+  # github: sproogen/resume-theme
+  quote: >
+    Objective is to build a system which provides similar products for any given apparel
+  description: | # this will include new lines to allow paragraphs
+    Build a system which recommends similar apparel products using product descriptions and other parameters.Used concepts of TF-IDF and Word Embeddings to build this real world solution.
