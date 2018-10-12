@@ -38,7 +38,7 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+# more_title: Publications
 more_content: | # this will include new lines to allow paragraphs
   <mark>Water Quality Monitoring System using IoT and Machine Learning</mark> accepted for publication and presented in 3rd IEEE International Conference on Research in Intelligent and Computing in Engineering.
 
