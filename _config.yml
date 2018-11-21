@@ -3,19 +3,19 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Nikhil Koditala
+name: Surya Aravind Maddula
 title: Computer Science Student
-email: nikhilkodit1@gmail.com
-website: www.github.com/nikhilkoditala
+email: surya10497@gmail.com
+website: suryaaravind97.github.io
 
 # Social links
-twitter_username: Nikhil32901303
-github_username:  nikhilkoditala
+twitter_username:@suryaaravind1
+github_username: suryaaravind97
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: chillwildlife
-linkedin_username: nikhilkoditala
+linkedin_username: Surya Aravind
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -24,9 +24,9 @@ linkedin_username: nikhilkoditala
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Nikhil and I'm a Final year Computer Science Student. I have experience in working as Research Intern at IIIT Hyderabad.
+  Hi, my name's Surya Aravind and I'm a Final year Computer Science Student. I have done internship at trillion It solutions
 
-  I am most skilled in: <mark>NLP</mark> and <mark>Web Development</mark>
+  I am most skilled in:  <mark></mark> and <mark>Web Development</mark>
 
 # Projects Section
 # projects_title: Projects
