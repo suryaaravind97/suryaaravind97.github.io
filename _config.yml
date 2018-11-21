@@ -9,7 +9,7 @@ email: surya10497@gmail.com
 website: suryaaravind97.github.io
 
 # Social links
-twitter_username:@suryaaravind1
+twitter_username: @suryaaravind1
 github_username: suryaaravind97
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Surya Aravind and I'm a Final year Computer Science Student. I have done internship at trillion It solutions
 
-  I am most skilled in:  <mark></mark> and <mark>Web Development</mark>
+  I am most skilled in:  <mark>java</mark> and <mark>Web Development</mark>
 
 # Projects Section
 # projects_title: Projects
