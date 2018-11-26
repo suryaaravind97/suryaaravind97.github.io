@@ -1,15 +1,17 @@
-- name: Building Word Embeddings using PLSA
+- name: Image Encryption,Decryption and file Transfer
   # link: github.com/sproogen
   # github: sproogen/resume-theme
   quote: >
-    To generate Word Associations using PLSA Algorithm over Large Dateset. 
+    To generate the security for image while transferring from sender to receiver 
   description: | # this will include new lines to allow paragraphs
-    Work with Dr.Sudip Sanyal to develop word embeddings using PLSA Algorithm. High Performance Computer was used to achieve parallel programming using MPI.
-
-- name: Apparel Recommendation Engine
+    We used blow fish algorithm for encryption and decryption of images and socket programming for transfer of files from sender to reciever 
+    
+- name: Face Detection and Tracking
   # link: github.com/sproogen
   # github: sproogen/resume-theme
   quote: >
-    Objective is to build a system which provides similar products for any given apparel
+Project on object detection and tracking using webcam
   description: | # this will include new lines to allow paragraphs
-    Build a system which recommends similar apparel products using product descriptions and other parameters.Used concepts of TF-IDF and Word Embeddings to build this real world solution.
+  The web cam detects the human face using python open cv libarary and tracks the person until in its range, so the detected face coordinates are send to arduino and rotate the servos for which web cam is attached
+  
+  
