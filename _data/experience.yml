@@ -7,14 +7,16 @@
   description: | # this will include new lines to allow paragraphs
     The project done on the transport system
     
-     company: Pike solutions
-  link: http://http://www.pikesol.com//
+- company: Pike Solutions
+  link: http://http://www.pikesol.com/
   job_title: Web Development
-  dates: January 2019-Present
+  dates: jan 2019 - present
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    Developing a various types of a  websites for a clients
+    Developing a various webistes for clients
+    
+   
 
 - #company: EAIESB Software Solutions
   #link: http://eaiesb.com
