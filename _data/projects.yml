@@ -10,7 +10,7 @@
   # link: github.com/sproogen
   # github: sproogen/resume-theme
   quote: >
-Project on object detection and tracking using webcam
+Project on object detection and tracking using webcam.
   description: | # this will include new lines to allow paragraphs
   The web cam detects the human face using python open cv libarary and tracks the person until in its range, so the detected face coordinates are send to arduino and rotate the servos for which web cam is attached
   
