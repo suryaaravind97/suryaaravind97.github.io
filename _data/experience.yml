@@ -1,3 +1,14 @@
+- company: Pike Solutions
+  http://pikesol.com/
+  job_title: Web Development
+  dates: jan 2019 - present
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    Developing a various webistes for clients
+
+
+
 - company: Trillion IT Solutions
   link: http://trillionit.com/
   job_title: Web Development
@@ -7,14 +18,7 @@
   description: | # this will include new lines to allow paragraphs
     The project done on the transport system
     
-- company: Pike Solutions
-  link: http://http://www.pikesol.com/
-  job_title: Web Development
-  dates: jan 2019 - present
-  quote: >
-   
-  description: | # this will include new lines to allow paragraphs
-    Developing a various webistes for clients
+
     
    
 
