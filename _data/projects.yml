@@ -15,12 +15,12 @@
     The web cam detects the human face using python open cv libarary and tracks the person until in its range, so the detected face coordinates are send to arduino and rotate the servos for which web cam is attached
   
   
-name: Student Chatbot
+- name: Face Detection and Tracking
   # link: github.com/sproogen
   # github: sproogen/resume-theme
   quote: >
-   Developed through Cloud Computing
+    Developed for conversation between organization and students for their respective query
   description: | # this will include new lines to allow paragraphs
-   Project developed for conversation between the user and the studnets for enquiry about their query
+    roject Developed on cloud computing
   
   
