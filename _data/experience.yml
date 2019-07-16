@@ -1,7 +1,7 @@
 - company: Pike Solutions
   link: http://pikesol.com/
   job_title: Web Development
-  dates: JAN 2019 -MAY 2019
+  dates: 
   quote: >
    
   description: | # this will include new lines to allow paragraphs
@@ -12,7 +12,7 @@
 - company: Trillion IT Solutions
   link: http://trillionit.com/
   job_title: Web Development
-  dates: june 2017- May 2017
+  dates: 
   quote: >
    
   description: | # this will include new lines to allow paragraphs
