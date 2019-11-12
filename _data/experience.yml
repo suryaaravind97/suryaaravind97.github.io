@@ -19,14 +19,14 @@
 
 
 
-# - company: Trillion IT Solutions
-#   link: http://trillionit.com/
-#   job_title: Web Development
-#   dates: 
-#   quote: >
+- company: Trillion IT Solutions
+  link: http://trillionit.com/
+  job_title: Web Development
+  dates: 
+  quote: >
    
-#   description: | # this will include new lines to allow paragraphs
-#     The project done on the transport system
+  description: | # this will include new lines to allow paragraphs
+    The project done on the transport system
     
 
     
